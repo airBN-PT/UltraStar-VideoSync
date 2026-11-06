@@ -1,3 +1,4 @@
+<img width="1919" height="1030" alt="imagem" src="https://github.com/user-attachments/assets/41bbbde7-8b75-4d70-845d-b8b6408a3ab6" />
 # UltraStar Video Sync 🎤
 
 **Sincronização entre música e vídeo** — ferramenta para analisar a diferença de início entre um ficheiro MP3 e o áudio de um MP4 e sugerir o valor `#VIDEOGAP` para ficheiros de músicas UltraStar.
